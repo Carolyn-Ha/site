@@ -5,3 +5,7 @@ title: "site"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+## NBA Schedule Visualization
+
+![NBA 2022 Schedule by Division](nba_schedule_by_division.png)
